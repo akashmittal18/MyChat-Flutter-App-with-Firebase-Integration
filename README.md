@@ -21,5 +21,5 @@ samples, guidance on mobile development, and a full API reference.
 
 Link to the Article- https://akashmittal18.medium.com/mychat-flutter-chat-app-integrated-with-firebase-with-geolocation-tracking-8bcb4fe24ccf
 <p>
-<a href="https://medium.com/@akashmittal18" target="blank"><img align="center" src="https://img.icons8.com/color/96/000000/medium-monogram.png" alt="akashmittal18" height="30" width="30" /></a>  
+<a href="https://medium.com/@akashmittal18" target="blank"><img align="center" src="https://img.icons8.com/color/110/000000/medium-monogram.png" alt="akashmittal18" height="30" width="30" /></a>  
 </p>
